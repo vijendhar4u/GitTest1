@@ -1,1 +1,1 @@
-console.log("Error test")
+console.log("Error test");
